@@ -22,7 +22,7 @@ pod 'uiuiuiTest'
 
 ## Author
 
-cruisingFish, yuanqingqiu@zallds.com
+cruisingFish, 1264992650@qq.com
 
 ## License
 

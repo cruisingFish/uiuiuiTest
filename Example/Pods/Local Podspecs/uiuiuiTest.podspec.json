@@ -1,0 +1,22 @@
+{
+  "name": "uiuiuiTest",
+  "version": "0.1.0",
+  "summary": "A short description of uiuiuiTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/cruisingFish/uiuiuiTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "cruisingFish": "yuanqingqiu@zallds.com"
+  },
+  "source": {
+    "git": "https://github.com/cruisingFish/uiuiuiTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "uiuiuiTest/Classes/**/*"
+}

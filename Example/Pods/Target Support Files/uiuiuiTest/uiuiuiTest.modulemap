@@ -1,0 +1,6 @@
+framework module uiuiuiTest {
+  umbrella header "uiuiuiTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

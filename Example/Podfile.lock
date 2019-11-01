@@ -1,0 +1,16 @@
+PODS:
+  - uiuiuiTest (0.1.0)
+
+DEPENDENCIES:
+  - uiuiuiTest (from `../`)
+
+EXTERNAL SOURCES:
+  uiuiuiTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  uiuiuiTest: 73ed454c94d30489468abed4f82e33b5c2d5bd7c
+
+PODFILE CHECKSUM: 69c5d4ef437398a91f99a3d89ce649d10505e1f8
+
+COCOAPODS: 1.8.4
